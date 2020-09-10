@@ -62,7 +62,7 @@
     "file-loader": "~1.1.6",
     "ghooks": "^2.0.2",
     "html-webpack-plugin": "~3.2.0",
-    "http-proxy": "~1.16.2",
+    "http-proxy": "~1.18.1",
     "less": "~2.7.1",
     "less-loader": "~4.0.5",
     "mini-css-extract-plugin": "^0.4.4",
