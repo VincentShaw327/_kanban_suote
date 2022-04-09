@@ -100,7 +100,7 @@
     "isomorphic-fetch": "~2.2.1",
     "lodash": "^4.17.4",
     "lodash-decorators": "^4.4.1",
-    "moment": "~2.20.1",
+    "moment": "~2.29.2",
     "mqtt": "^2.14.0",
     "prop-types": "^15.6.1",
     "rc-queue-anim": "^1.4.1",
